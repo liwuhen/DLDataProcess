@@ -1,9 +1,8 @@
 <!--
- * @Author: zjj
+ * @Author: lwh
  * @Date: 2023-12-06 10:29:59
- * @LastEditors: zjj
+ * @LastEditors: lwh
  * @LastEditTime: 2023-12-11 17:17:04
- * @FilePath: /DataProcess/README.md
  * @Description: 
  * 
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
@@ -19,17 +18,16 @@ This codebase has been developed with OpenCV-4.6.0 ...
 
 ### 2.2 Install modules *ImageProcess*
 ```
-cd ImageProcess
-bash build.sh
+bash scripts/build.x64.sh
 ```
 
 ## 3 Test
 ### 3.1 Run test
 `
-bash run_test.sh
+bash scripts/run_test.sh
 `
 ### 3.2 Results Visualization
-<div align=left><img src="./test/ll_seg_filter.jpg" width=300 height=300>
-<div align=left><img src="./test/da_seg_filter.jpg" width=300 height=300>
+<div align=left><img src="./src/test/ll_seg_filter.jpg" width=300 height=300>
+<div align=left><img src="./src/test/da_seg_filter.jpg" width=300 height=300>
 
 

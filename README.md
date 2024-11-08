@@ -1,12 +1,3 @@
-<!--
- * @Author: lwh
- * @Date: 2023-12-06 10:29:59
- * @LastEditors: lwh
- * @LastEditTime: 2023-12-11 17:17:04
- * @Description: 
- * 
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
--->
 # Use of ImageProcess
 
 ## 1 Requirement
